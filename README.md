@@ -8,7 +8,7 @@ Personal Portfolio Website
 
 ## 📸 Screenshot
 
-![Screenshot](images/protofilio.png)
+![Portfolio Screenshot](images/protofilio1.png)
 
 ---
 
@@ -47,11 +47,24 @@ The website features a modern responsive design with smooth navigation and clean
 
 Follow these steps to run the project locally:
 
-1️⃣ Clone the repository
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+
+```bash
 git clone https://github.com/sohaibelgezawy/portfilio.git
-2️⃣ Navigate to the project folder
+```
+
+### 2️⃣ Navigate to the project folder
+
+```bash
 cd portfilio
-3️⃣ Open the project
+```
+
+### 3️⃣ Open the project
+
+Open the `index.html` file in your browser.
+
 
 Simply open the index.html file in your browser.
 
