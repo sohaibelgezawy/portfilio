@@ -8,7 +8,7 @@ Personal Portfolio Website
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](images/protofilio1.png)
+![Portfolio Screenshot](images/protofilio1.PNG)
 
 ---
 
