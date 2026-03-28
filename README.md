@@ -8,7 +8,7 @@ Personal Portfolio Website
 
 ## 📸 Screenshot
 
-images/protofilio.PNG
+![Screenshot](images/protofilio.png)
 
 ---
 
@@ -24,26 +24,6 @@ images/protofilio.PNG
 * CSS3
 * Tailwind CSS
 * JavaScript
-
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/sohaibelgezawy/portfilio.git
-```
-
-### 2️⃣ Navigate to project folder
-
-```bash
-cd portfilio
-```
-
-### 3️⃣ Run the project
-
-افتح ملف `index.html` في المتصفح
 
 ---
 
@@ -63,10 +43,22 @@ The website features a modern responsive design with smooth navigation and clean
 
 ---
 
+⚙️ Setup Instructions
+
+Follow these steps to run the project locally:
+
+1️⃣ Clone the repository
+git clone https://github.com/sohaibelgezawy/portfilio.git
+2️⃣ Navigate to the project folder
+cd portfilio
+3️⃣ Open the project
+
+Simply open the index.html file in your browser.
+
 ## 📞 Contact
 
 * GitHub: https://github.com/sohaibelgezawy
-* LinkedIn: (حط لينك بتاعك)
+* LinkedIn: https://www.linkedin.com/in/sohaib-elgezawy/
 
 ---
 
